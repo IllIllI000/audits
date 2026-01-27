@@ -34,3 +34,6 @@
 | 2022-12-rain | [Rain (Private)](https://github.com/sherlock-audit/2022-12-rain-judging/blob/main/Audit_Report.pdf) | Sherlock | [🥇](https://github.com/sherlock-audit/2022-12-rain-judging/issues?q=is%3Aissue%20state%3Aopen%20IllIllI%20in%3Atitle) |
 | 2022-10-illuminate | [Illuminate](https://github.com/sherlock-audit/2022-10-illuminate-judging/blob/main/Audit_Report.pdf) | Sherlock | [🥇](https://github.com/sherlock-audit/2022-10-illuminate-judging/issues?q=is%3Aissue%20state%3Aopen%20IllIllI%20in%3Atitle) |
 | 2022-09-harpie | [Harpie](https://github.com/sherlock-audit/2022-09-harpie-judging/blob/develop/Audit_Report.pdf) | Sherlock | [🥇](https://github.com/search?q=repo%3Asherlock-audit%2F2022-09-harpie-judging%20IllIllI&type=code) |
+
+
+Earlier work can be found [here](https://code4rena.com/@IllIllI)
