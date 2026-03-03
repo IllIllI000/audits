@@ -2,7 +2,7 @@
 
 | Begin month | Project | Category | Provider | Dates | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
-| 2026-01 | TBA | vault | Zenith | 2026-01-22 / 2026-01-23 | Rust - Solana; Anchor |
+| 2026-01 | Solv - Vault Derivative Protocol | vault, yield | Zenith | 2026-01-22 / 2026-01-23 | Rust - Solana; Anchor |
 | 2026-01 | [GMX Solana - Decentralized Perpetuals Exchange #5](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20Decentralized%20Perpetuals%20Exchange%20-%20Zenith%20Audit%20Report.pdf) | DEX, perpetuals | Zenith | 2026-01-15 / 2026-01-19 | Rust - Solana; Anchor |
 | 2026-01 | [MetaDAO - Conditional Market Vault](https://github.com/zenith-security/reports/blob/main/reports/MetaDAO%20-%20Zenith%20Audit%20Report.pdf) | vault, governance | Zenith | 2026-01-05 / 2026-01-07 | Rust - Solana; Anchor | 
 | 2025-10 | Melee Markets - Prediction Markets #2 | prediction markets, bonding curves | Zenith | 2025-10-23 / 2025-11-06 | Rust - Solana; Anchor | 
