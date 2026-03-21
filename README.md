@@ -4,7 +4,7 @@
 | :---: | :--- | :---  | :--- | :---: | :--- |
 | 2026-03 | GMX Solana - Decentralized Perpetuals Exchange #6 | DEX, perpetuals | Zenith | 2026-03-17 / 2026-03-17 | Rust - Solana; Anchor |
 | 2026-03 | Flex Labs - Cross-DEX Trading Automation | vault, HyperEVM, HyperCore | Zenith | 2026-03-16 / 2026-03-16 | Solidity - Hyperliquid |
-| 2026-02 | TBA | TBA | Zenith | 2026-02-04 / 2026-03-02 | Rust - Solana; Anchor|
+| 2026-02 | MetaDAO - Market-Driven Governance | DEX, AMM, launchpad, governance, futarchy, conditional tokens, bid wall | Zenith | 2026-02-04 / 2026-03-02 | Rust - Solana; Anchor|
 | 2026-01 | Solv - Vault Derivative Protocol | vault, yield | Zenith | 2026-01-22 / 2026-01-23 | Rust - Solana; Anchor |
 | 2026-01 | [GMX Solana - Decentralized Perpetuals Exchange #5](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20Decentralized%20Perpetuals%20Exchange%20-%20Zenith%20Audit%20Report.pdf) | DEX, perpetuals | Zenith | 2026-01-15 / 2026-01-19 | Rust - Solana; Anchor |
 | 2026-01 | [MetaDAO - Conditional Market Vault](https://github.com/zenith-security/reports/blob/main/reports/MetaDAO%20-%20Zenith%20Audit%20Report.pdf) | vault, governance | Zenith | 2026-01-05 / 2026-01-07 | Rust - Solana; Anchor | 
